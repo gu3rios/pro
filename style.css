@@ -86,7 +86,6 @@ body * {
 
 #switch button:hover {
   outline: 8px solid var(--highlight-color);
-
 }
 
 #switch span {
@@ -195,3 +194,4 @@ footer {
   to {
     left: 0;
   }
+}
